@@ -48,6 +48,9 @@
 
 
 ### 관리자 페이지 - 분석
+
+> _데이터는 더미 데이터로 대체하였습니다._
+
 <p align="center">
   <img width="1470" alt="image" src="https://github.com/user-attachments/assets/e26dd770-c3d0-4c17-bdc9-bdfe09f71bf5" />
 </p>
