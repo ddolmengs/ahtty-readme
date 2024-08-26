@@ -41,6 +41,24 @@
   <img width="1470" alt="image" src="./readme/ahtty_cost.png" />
 </p>
 
+### 관리자 페이지 feat. SideBar
+<p align="center">
+  <img width="1470" alt="image" src="https://github.com/user-attachments/assets/c1eccabb-17e1-4d2f-a762-323c504f9724" />
+</p>
+
+
+### 관리자 페이지 - 분석
+<p align="center">
+  <img width="1470" alt="image" src="https://github.com/user-attachments/assets/e26dd770-c3d0-4c17-bdc9-bdfe09f71bf5" />
+</p>
+
+### 관리자 페이지 - 이미지 관리
+<p align="center">
+  <img width="1470" alt="image" src="https://github.com/user-attachments/assets/99eaeb24-517c-491a-9955-9fe4d0f7eeba" />
+</p>
+
+
+
 <br/>
 
 ## R&R
